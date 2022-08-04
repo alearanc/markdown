@@ -150,6 +150,8 @@ Si en un documento md queremos escribir código HTML, automáticamente va a func
 
 ## Comentarios
 Los comentarios se definen de igual manera que en HTML.
+
+Esto es:    \<\!\-\- Esto es un comentario en Markdown \-\-\>
 <!-- Esto es un comentario en _Markdown_ -->
 
 ## Escape de caracteres
